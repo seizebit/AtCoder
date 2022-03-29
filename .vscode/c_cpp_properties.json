@@ -3,8 +3,8 @@
         {
             "name": "WSL",
             "includePath": [
-                "${workspaceFolder}/ac-library/",
-                "${workspaceFolder}/**"
+                "/root/work/ac-library/",
+                "/root/work/AtCoder/**"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",

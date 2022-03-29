@@ -13,7 +13,7 @@
                 "-DONLINE_JUDGE",
                 "-I/opt/boost/gcc/include",
                 "-L/opt/boost/gcc/lib",
-                "-I/root/work/AtCoder/ac-library",
+                "-I/root/work/ac-library",
                 "-o",
                 "'/root/work/AtCoder/problem.exe'",
                 "'${file}'",
