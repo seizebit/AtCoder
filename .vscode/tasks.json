@@ -13,9 +13,9 @@
                 "-DONLINE_JUDGE",
                 "-I/opt/boost/gcc/include",
                 "-L/opt/boost/gcc/lib",
-                "-I/root/work/ac-library",
+                "-I{workspaceFolder}/ac-library",
                 "-o",
-                "'/root/work/AtCoder/problem.exe'",
+                "'{workspaceFolder}/problem.exe'",
                 "'${file}'",
             ],
             "group": {
